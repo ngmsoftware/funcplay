@@ -1,0 +1,284 @@
+             Ûßßßß                     ÛßßßÛ
+             ÛÜÜ   Û   Û ÛÜ  Û  Üßßßß  ÛÜÜÜÛ Û    ÜßßßÜ  Ü   Ü
+             Û     Û   Û Û Û Û  Û      Û     Û    ÛÜÜÜÛ   ßÜß
+             Û     ßÜÜÜß Û  ßÛ  ßÜÜÜÜ  Û     ÛÜÜÜ Û   Û   Üß
+
+    "When all poeple look arround your self and see all the wanderful
+   magic that our good godnes leave to us, the world will be more bether"
+
+      by Ningu‚m... ;-)
+
+
+  Ol  pessoal, bem vindo ao help do FuncPlay, meu nome ‚ Ningu‚m e eu espero
+que voce goste do meu programa e que ele lhe ajude em alguma coisa, para isso
+leia este help e aproveite seu programa.
+  Obs.: caso voce descubra algum "bug" ou defeito mande sua critica ou
+sugest„o para:
+  Ningu‚m, e-mail: <NGMCHAOS@ncc.ufrn.br> eu ficarei muito grato!
+
+
+  Este arquivo comtem informac”es sobre o uso do FuncPlay V2.0á, FuncPlay is
+a program totaly unless, crasy and bad bild, and your programer is inteligent
+like a AMOEBA.
+
+
+        Indice
+          
+   1 - O que ‚ o FuncPlay       
+
+   2 - "Geting started"
+         2.1 - Navegando pelo ambiente
+         2.2 - Plotando uma funcao 
+
+   3 - Plotando em 2D          
+         3.1 - Entrando com uma funcao
+         3.2 - Modificando os limites de plotagem
+         3.3 - Plotando
+         3.4 - Os eixos
+         3.5 - Calculo avancado
+                 3.5.1 - Plotando derivadas
+                 3.5.2 - Achando  reas
+                 3.5.3 - Encontrando limites
+
+   4 - Plotando em 3D
+         4.1 - As funcoes em 3D
+         4.2 - Plotando uma funcao em 3D
+         4.3 - Os eixos
+         4.4 - Trabalhando com perspectiva
+                 4.4.1 - modificando a perpectiva
+                 4.4.2 - Ampliando e rotacionando a funcao
+                 4.4.3 - Dando um "fit" na perpectiva
+         4.5 - Comparando funcoes 3D
+
+   5 - As coodenadas polares
+         5.1 - Funcoes polares 2D
+                 5.1.1 - Plotando
+                 5.1.2 - Entendendo os eixos
+         5.2 - Funcoes polares 3D
+                 5.2.1 - As 3 dimen‡”es polares
+                 5.2.2 - Plotando
+                 5.2.3 - Entendendo os eixos
+
+   6 - Outros
+          6.1 - A calculadora
+          6.2 - O arquivo de configura‡„o
+          6.3 - A sintaxe das fun‡”es
+          6.4 - O ambiente
+
+
+
+ 1 - O que ‚ o FuncPlay ----------------------------------------------------
+
+        O FuncPlay ‚ um programa que serve para (na verdade ele n„o serve para
+nada, mas a intes„o ‚: ) plotar o gr fico de fun‡oes bastando o usuario
+digitar a fun‡„o desejada. O FuncPlay ‚ mais uma das cria‡”es malucas de
+Ninguem, e como tal, n„o deve servir de muita coisa j  que todos os programas
+deste anta s„o mal feitos e inuteis, bem mas fora isso o FuncPlay tambem plota
+derivadas, acha areas sob o grafico da fun‡„o, e at‚ tem uma poderosa
+calculadora que sabe somar, dividir, multiplicar, etc... Sim! quanto aos 
+direitos autorais, n„o existem, pode copiar a vontade, eu s¢ n„o me 
+responsabilizo por nada, pois quem vai estar espalhando programas bestas no
+mercado ‚ voce.
+        Bom de qualquer forma obrigado por usar o FuncPlay e espero que ele
+seja de alguma utilidade para voce.
+
+
+ 2 - "Geting started" ------------------------------------------------------
+
+        Bem, para comecar lige o computador, espere o tedioso BOOT terminar,
+depois espere o config, autoexec, bla ,bla ,bla ,bla... e finalmente mude para
+o diret¢rio onde esta o FuncPlay e Tcham, Tcham, Tcham, Tcham, DIGITE FUNCPLAY
+<ENTER>!!!! Voce dever  ver uma imagem orr¡vel de entrada, ent„o precione
+<Ctrl + Alt + Del>..., t“ brincando, basta qualquer tecla, ent„o voce acaba de
+ir pro infern... “, para o ambiente do FuncPlay, deve ser uma telinha
+ridicula cheia de bot”ezinhos e frescurinhas e uma fun‡„o ja plotada.
+
+---- 2.1 - Navegando pelo ambiente
+
+        O ambiente (se ‚ que isto pode ser chamado de ambiente) do FuncPlay
+‚ bem mal feito, consiste de uma tela onde as fun‡”es s„o plotadas, uma onde
+‚ feita a comunica‡„o com o usuario, uma telinha de help (azul), uma barra
+de status (a barra vermelha em baixo da tela) e uma barra de bot”es. Para
+navegar no funcplay ‚ s¢ mover o mouse e quando quiser executar um commando
+basta dar um click no mouse em cima do bot„o desejado.
+
+---- 2.2 - Plotando uma fun‡„o
+
+        Mova o mouse para o bot„o 7 (de cima para baixo) e clicke o mesmo,
+uma m gica vai acontecer, a tela onde a fun‡„o estava esta agora vazia sem
+nemuma fun‡„o, agora clicke no bot„o 5 e digite : "x" depois "x^2" (sem as
+aspas), agora aperte o bot„o 6 e ent„o voce ver  uma fun‡„o totalmente
+estranha e do outro mundo chamada par bola, pronto, voce ja plotou sua
+primeira fun‡„o. Viu como ‚ facil? e inutil este programa?, agora passe para
+a proxima se‡„o, plotando em 2D.
+
+
+ 3 - Plotando em 2D --------------------------------------------------------
+
+        As fun‡”es em 2 dimen‡”es tem 2 dimen‡”es, (bonito isso n„o? eu l¡ num
+livro) e 2 eixos: x e y, o funcplay (eu n„o vou mais escrever com F e P
+maiusculo porque j  est  enjuando) trabalha atribuindo valores a x e y para
+plotar a fun‡„o, os valores de x e y  s„o fun‡”es de t, t ‚ uma variavel
+independente ou param‚trica, ela sempre varia de um valor para outro em
+incrementos contantes. Por exemplo digamos que t varie de -10 a 10 com
+incremento de 0.1, isto quer dizer que t vai ter valores: -10, -9.9, -9.8, ...
+9.9, 10, sempre crescente. Como x e y s„o fun‡”es de t, o gr fico gerado
+sera o conjunto de pontos (x,y), ou seja (x(t),y(t)). Digamos que voce quer
+plotar o grafico de f(x)=sen(x), o procedimento ‚ esse: como sen(x) ‚ fun‡„o
+de x os pontos v„o ser estes (t,sen(t)), entao x(t)=t e y(t)=sen(t) no
+funcplay t ‚ representado pela letra x ent„o quando o programa pedir, "Diga a
+fun‡„o do eixo X", voce digita "x", e quando pedir a fun‡„o do eixo y voce
+digita "sen(x)". Facil n„o? agora passemos adiante.
+
+---- 3.1 - Entrando com uma funcao
+
+        Para entrar com uma fun‡„o no funcplay basta apertar bot„o de fun‡”es
+e digitar a fun‡„o desejada, respeitando a sinaxe. N„o precisa digitar "f(x)="
+basta digitar a fun‡„o em si, por exemplo : para f(x)=|sen(x)| basta digitar
+abs(sen(x)).
+
+---- 3.2 - Modificando os limites de plotagem
+
+        Os limites de plotagem s„o os valores maximo e minimo da variavel
+parametrica, ou seja, o dominio que a fun‡„o f(t) ira assumir, para modica-los
+aperte o bot„o de limites, o funcplay ir  pedir o limite x, este ‚ o valor que
+x(t) ir  assumir, para valor que voce digitar t assumira de -v a v ou seja, se
+voce digitar 10 para o limite x o dominio de x(t) ser  de -10 a 10. O mesmo
+para y.
+
+---- 3.3 - Plotando
+
+        Existe basicamente 2 tipos de plotagem 2D, o gr fico de fun‡”es e o
+gr fico de curvas. No gr fico de fun‡”es s„o mostrados apenas os valores de
+f(x) para o x no dominio (limites de plotagem), e no gr fico de curvas ‚
+mostrado comjunto de pontos pertencentes a curva.
+        Para plotar o grafico de fun‡”es deve-se atribuir x(t)=t, ou seja,
+a fun‡„o do eixo x ‚ a fun‡„o elementar f(x)=x e a fun‡„o do eixo y deve ser
+a fun‡„o que se deseja plotar. No caso de graficos de curvas, voce tem que
+definir as fun‡”es que geram a curva sua componente x e y ent„o ‚ so digitar
+x(t) e y(t).
+
+---- 3.4 - Os eixos
+
+        No funcplay os eixos est„o sempre crusando-se no centro da tela de
+plotagem j  que o dominio das fun‡”es ‚ sempre de -t a t o eixo horizontal ‚
+o eixo x e o vertical o y (‚ claro) e s„o representados pelas linhas que
+dividem a tela. Quando a fun‡„o corta um destes eixos significa que naquele
+ponto o seu valor ‚ zero (ou muito proximo de zero) ou ela trocou de sinal.
+
+---- 3.5 - Calculo avan‡ado
+
+------------ 3.5.1 - Plotando derivadas
+
+        O funcplay se utliza de um metodo para calcular derivadas numericas
+atraves do teorema do valor m‚dio, que imforma com boa precis„o o valor da
+derivada da fun‡„o naquele ponto e ent„o plota o gr fico da derivada da
+fun‡„o, para isto entre com a fun‡„o que voce deseja saber a derivada e
+plote-a, depois va no icone "Opc”es avancadas" e escolha "derivada", o
+gr fico da derivada ir  ser plotado.
+
+------------ 3.5.2 - Achando  reas
+
+        O funcplay tamb‚m acha  reas sob o gr fico de fun‡”es, atrav‚s do
+m‚todo de aproxima‡„o num‚rica. Para achar a  rea sob a fun‡„o fa‡a o
+seguinte, misture 2 copos de... ^C ^C ^C. Foi mal, basta entrar com a fun‡„o
+desejada e ir no bot„o c culo avan‡ado e depois no bot„o calcular integral,
+entre com o intervalo (x1 e x2) e pronto. Cuidado, o funcplay calcula a
+INTEGRAL de x1 at‚ x2 por isso se existir  reas abaixo do eixo ser 
+considerada  rea negativa.
+
+
+------------ 3.5.3 - Encontrando limites
+
+        Bem para encher mais ligui‡a o funcplay tab‚m calcula limites, para
+isso ele apanas testa o valor da fun‡„o no ponto dado, se existir ele informa
+o valor, se n„o ele n„o informa, ou seja ele diz: "Em nome do p..." n„o!!!
+ele diz: "Abre de ce..." N„o!!! ele diz: "C¢lera do drag..." Sim!!! quer dizer
+N„o!!! ta bom ele diz que o limite n„o existe. Agora vamos a proxima se‡„o.
+Ha!! antes vamos ver como ob ter limites, ‚ a mesma coisa dos outros comandos
+v  no bot„o c lculo avan‡ado depois no calcular limites e ent„o diga o ponto
+onde voce quer o limite.
+
+
+ 4 - Plotando em 3D ----------------------------------------------------------
+
+        Como voce sabe, as fu‡”es 3D s„o fun‡”es de duas vari veis ou seja ‚
+algo deste tipo: z=f(x,y), onde z ‚ a coodenada z (claro) do sistema
+3Dmencional (gostou do 3Dmencional?) e x e y s„o variveis param‚tricas,
+lembra-se da est¢ria das param‚tricas? N„o? ent„o v  ler tudo de novo!!!!
+bem, x e y tamb‚m correspondem …s coodenadas do sistema. O que o funcplay faz
+‚ plotar, em 3D, os valores de z para cada x e y nos limites.
+
+------------ 4.1 - As funcoes em 3D
+
+        As fun‡”es em 3D s„o fun‡”es da forma z=f(x,y) geram superficies
+tridimencionais em um sistema cartesiano de 3 eixos: uginho, zezinho e
+luizinho... estou brincando, x, y e z.
+
+---- 4.2 - Plotando uma funcao em 3D
+
+        Para plotar uma fun‡„o em 3D fa‡a o seguinte:
+(Aten‡„o esta ‚ uma opera‡„o muito perigosa e portanto deve ser realizada na
+ presen‡a de um adulto)
+V  no bot„o mudar de modo e mude at‚ o modo cartesiano 3D, dever  aparecer
+a representa‡„o do sistema por 3 eixos, em entre com a fu‡„o (lembrese:
+z=f(x,y) ) e em seguida aperte plotar fun‡„o. Pronto, viu? legal n‚?
+
+---- 4.3 - Os eixos
+
+---- 4.4 - Trabalhando com perspectiva
+
+------------ 4.4.1 - modificando a perpectiva
+------------ 4.4.2 - Ampliando e rotacionando a funcao
+------------ 4.4.3 - Dando um "fit" na perpectiva
+---- 4.5 - Comparando funcoes 3D
+
+ 5 - As coodenadas polares --------------------------------------------------
+
+---- 5.1 - Funcoes polares 2D
+------------ 5.1.1 - Plotando
+------------ 5.1.2 - Entendendo os eixos
+---- 5.2 - Funcoes polares 3D
+------------ 5.2.1 - As 3 dimen‡”es polares
+------------ 5.2.2 - Plotando
+------------ 5.2.3 - Entendendo os eixos
+
+
+
+
+ 6 - Outros -----------------------------------------------------------------
+
+        Al‚m desse monte de besteira o funcplay tem tamb‚m uma calculadora,
+um arquivo de configura‡”es, um arquivo de "help"(o que vos fala agora), uma
+banheira de hidormass gem, uma m quina de coca-cola e um b¢ton dos cavaleiros
+do zodiaco. Foi mal, da banheira pra l  ‚ bricadeirinha. Vamos aos t¢picos.
+
+---- 6.1 - A calculadora
+
+        A calculadora do funcplay n„o ‚ nenuma HP, mas tamb‚m n„o ‚ dessas de
+quatro o pera‡”es que agente compra nas "lojas cƒmelo, o shoping da galera".
+Bem, para fazer uma conta aperte no bot„o da calculadora e entre com a
+express„o e ser resolvida, por exemplo, digite '1+1'(sem as aspas), veja oque
+vai dar, agora pege uma calculadora normal e verifique, t  certo? incr¡vel
+o funcplay saber somar!!!!!!!!!! bem, se acha pouco tente algo como seno,
+logaritimos, exponenciais, hiperbolicos,...
+
+
+
+
+---- 6.2 - O arquivo de configura‡„o
+---- 6.3 - A sintaxe das fun‡”es
+---- 6.4 - O ambiente
+
+
+
+
+
+
+
+
+
+
+
+
+

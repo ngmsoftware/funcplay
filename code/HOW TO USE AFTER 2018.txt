@@ -1,0 +1,19 @@
+To run this nowadays, you need to remember some things:
+
+1 - The tp70 that you install might have messed up directories. Configure the UNITS directory to it can find the TPU files. Remember that you HAVE to add the output directory too since you have to compile some TPU that you made. It should look like this:
+Exe & tpu Directories:
+c:\tp70\exe
+Inits directory:
+c:\tp70\units;c:\tp70\exe
+
+2 - Compile first the tpu's needed (ngmath, mouse, ngmgraph and ngmobj)
+
+3 - The source files itself uses 8087 co-processor math so enable it in Compiler options
+
+4 - The source files have hard-coded the path for the bgi files. Change that to the CURRENT bgi folder. Something like 'c:\tp70\bgi'
+
+5 - Big programs (like Funcplay) wont run because they need memory and cant be together with turbo.exe. You have to run the exe itself (which brings us to the next point)
+
+6 - Big programs (like Funcplay) load a bunch of icons and bmp's so copy the exe to the directory where the .ico and .bmp files are otherwise you get weird erros (even crashes in MSDOS)
+
+7 - You might get division by zero, thats not the code nor is TP70 configuration... Google it to see that is a processor stuff (configure the virtual machine of the time)
