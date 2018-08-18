@@ -2,6 +2,8 @@
 
 Turbo Pascal program used to plot functions. It has a string evaluator, a 3D system to plot 3D functions and a GUI that uses the mouse and has animated buttons. Made in 1995 or 96 (don't remember exactly) as a tool to get familiar with calculus 
 
+Demo video: https://www.youtube.com/watch?v=C_nGPw3kbt8
+
 ## Software
 
 DOS
